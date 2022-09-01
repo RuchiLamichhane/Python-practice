@@ -1,7 +1,14 @@
+#for loop is used to iterate over a sequence which could be list,tuple,array or a string.
+
+#to print:
+#1
+#6
+#simplilearn
 X = [1, 6, "Simplilearn"]
 for i in X:
   print(i)
-
+ 
+ #to print :16simplilearn
   x = [1, 6, "simplilearn"]
 for i in x:
   print(i, end="")

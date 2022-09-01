@@ -1,3 +1,5 @@
+#Loop control alters the regular flow of loop.
+
 # Loop control using Break
 x="Hey there. how are you ?"
 for i in x :

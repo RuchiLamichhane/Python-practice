@@ -1,0 +1,11 @@
+Module is a file containing code written by somebody else usually which can be imported and used in our program
+ Type of module:
+  1.Built-in modules : Pre-intall in python, Eg: Platform
+  2.External modules : Need to install using pip. Eg: Tensorflow,Flask
+
+Pip is package manager for python.It is used to install modules in our system.
+
+Comments are used to write something which we don't want to execute but to remember or explain something in our code.
+ Types of comments:
+ 1.Single line comments: It is written using #
+ 2.Multi line comments: It is written using '''adcvv''' or """agsfdh"""

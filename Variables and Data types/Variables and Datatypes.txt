@@ -1,0 +1,20 @@
+Variable and datatypes:-
+
+Variable:- Variable is the name given to the memory location.
+
+Datatype:- Datatype is different type of container roles like integer ,float (decimal number) ,string. Basically there are five types of datatype are used on python and they are written below:-
+
+1) string:It is the number of characters (a, b, c, d quoted inside the coma) string is written in double quoted coma like (”hello”).string should always be inside coma.
+  There are three type of method for writting string. They are mentioned below:-
+    1) single quoted coma (’a’):-This coma is normally used for indicate the code inside the container is string.
+    2) Double quoted coma (”a”):-This coma is used if we want to use single cotted comma in the mid of the context as a shortcut key like ( I’m)  as part of the string.
+    3) triple quoted coma (’’’a’’’):- Same as double cotted coma. also in this triple cotted coma we can write our code in multiple line where this isnot possible in single and double cotted coma.
+       EG: a='''He said,"I like apple." to me'''
+
+2) integer: An integer can be written without a comma, especially a number that can be known as an integer but if we write any word without indicating a comma (double code) it is also known as an integer (print(hello)). Integers either may be positive or negative (-1,+1).
+
+3) float:
+
+4) booleans
+
+5) none

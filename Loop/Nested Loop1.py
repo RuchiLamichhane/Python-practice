@@ -1,3 +1,5 @@
+#Nested Loop allows loops to be nested in loops
+
 
 X=[[1,2,3],["a","b","c"]]
 for i in X:
