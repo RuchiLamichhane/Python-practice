@@ -1,2 +1,2 @@
 # Python practice
- Python course from simplilearn
+ Python practice from simplilearn
